@@ -14,7 +14,7 @@
 * ``main.py`` berisi program utama (menu pilihan yang memanggil semua menu yang ada).
 * **Output tambah_data**
   
-   <img width="784" alt="opsiTambah" src="https://user-images.githubusercontent.com/56913656/71645566-d7b45a80-2d0c-11ea-95f4-64a19c61d4d1.png">
+   ![d](https://user-images.githubusercontent.com/73022058/104219251-7622e200-5470-11eb-9697-72323c8bf59c.jpg)
 
 * **Output daftar_nilai**
 
